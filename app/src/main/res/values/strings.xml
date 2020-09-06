@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">239OnlineTest</string>
+
+    <string name="auth_email_hint">Email</string>
+    <string name="auth_password_hint">Password</string>
+    <string name="auth_submit_button">Enter</string>
+
+    <string name="menu_name">Имя</string>
+    <string name="menu_surname">Фамилия</string>
+    <string name="menu_test_name">Имя теста</string>
+    <string name="menu_button_enter">Перейти к тесту</string>
+    <string name="menu_exit_button">Выйти</string>
+</resources>

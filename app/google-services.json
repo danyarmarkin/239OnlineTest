@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60078891411",
+    "firebase_url": "https://onlinetest-e2140.firebaseio.com",
+    "project_id": "onlinetest-e2140",
+    "storage_bucket": "onlinetest-e2140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60078891411:android:956a1e38997bc8ce5ac866",
+        "android_client_info": {
+          "package_name": "com.onlinetest.android.a239onlinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60078891411-a850qa4t399rdksoqi9vus98bukdtqn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ds1GlgZDnnRVm0xV7sucZVkzITemwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60078891411-a850qa4t399rdksoqi9vus98bukdtqn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

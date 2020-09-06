@@ -1,0 +1,2 @@
+rootProject.name='239OnlineTest'
+include ':app'
