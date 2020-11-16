@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/menu_test_name"
-        android:inputType="textPersonName" />
+        android:inputType="number" />
 
     <Button
         android:id="@+id/go_to_test_button"

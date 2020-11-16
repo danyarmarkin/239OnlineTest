@@ -5,8 +5,9 @@ public class Question {
     private int mQuestionNumber;
     private long mQuestionId;
 
-    Question(){
-
+    Question(String questionText, int questionNumber){
+        mQuestionText = questionText;
+        mQuestionNumber = questionNumber;
     }
 
     public String getQuestionText() {
